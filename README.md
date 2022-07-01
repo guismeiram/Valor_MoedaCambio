@@ -20,3 +20,11 @@ Ferramentas utilizadas:<br>
 -SPRING BOOT<br>
 -Java<br>
 -Postman
+
+Como foi feito:<br>
+JPQL<br>
+JPA<br>
+CONSUMO DE SERVIÇO GET(RestTemplate)<br>
+APIREST(GET e POST)<br>
+MODEL MAPPER<br>
+DTO<br>
