@@ -1,7 +1,7 @@
 # Valor_MoedaCambio
 <b>Valor_MoedaCambio</b>
 
-<b>API REST com foco no aprendizado na TECNOLOGIA JPQL.</b><br>
+<b>API REST com foco no aprendizado na TECNOLOGIA JPQL , CONSUMO DE SERVIÇOS e API RESTFULL.</b><br>
 
 Esta tecnologia é a junção de funções, em java, com a queries em SQL.<br>
 
@@ -16,7 +16,7 @@ git clone https://github.com/guismeiram/Autenticacao_ConsumoServico
 
 <b>Ferramentas utilizadas:</b><br>
 -Java 17<br>
--IDE Eclipse<br>
+-IDE Eclipse, Intellij e Visual Code<br>
 -SPRING BOOT<br>
 -Java<br>
 -Postman
@@ -24,7 +24,7 @@ git clone https://github.com/guismeiram/Autenticacao_ConsumoServico
 <b>Como foi feito:</b><br>
 JPQL<br>
 JPA(OneToOne e OneToMany)<br>
-CONSUMO DE SERVIÇO GET(RestTemplate)<br>
+CONSUMO DE SERVIÇO GET(RestTemplate) e salvar dados de consumo de serviços no banco<br>
 APIREST(GET, POST, DELTE, E PUTH)<br>
 MODEL MAPPER<br>
 DTO<br>
