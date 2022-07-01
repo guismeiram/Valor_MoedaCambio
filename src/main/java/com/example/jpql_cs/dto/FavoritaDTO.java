@@ -1,5 +1,5 @@
 package com.example.jpql_cs.dto;
 
-public class CotacaoFavoritaDTO {
+public class FavoritaDTO {
 
 }

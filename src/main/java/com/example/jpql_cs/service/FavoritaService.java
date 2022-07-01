@@ -1,4 +1,4 @@
 package com.example.jpql_cs.service;
 
-public class CotacaoFavoritaService {
+public class FavoritaService {
 }
