@@ -30,7 +30,7 @@ public class Cotacao {
     @ManyToOne
     private Favorita favorita;
 
-
+    
 
     // Getter Methods
 

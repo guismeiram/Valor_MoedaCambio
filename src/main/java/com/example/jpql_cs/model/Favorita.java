@@ -23,6 +23,18 @@ public class Favorita {
     @LazyCollection(LazyCollectionOption.FALSE)
     private List<Cotacao> cotacao = new ArrayList<>();
 
+    @MapsId
+    @OneToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "PK_NOTICIAS")
+    private Noticias noticias;
+
+    public Noticias getNoticias() {
+        return noticias;
+    }
+
+    public void setNoticias(Noticias noticias) {
+        this.noticias = noticias;
+    }
 
 
     public long getAllId() {
