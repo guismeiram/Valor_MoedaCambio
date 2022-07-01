@@ -11,5 +11,12 @@ Consumo de api de cambio, destinado a preenchimento de dados no banco de dados. 
 Qual o intuito do projeto?<br>
 Fortalecer conhecimentos, além disso fazer experitos. E, ser um facilitador de conhecimentos.<br><br>
 
-Como baixar o projeto?
+Como baixar o projeto?<br>
 git clone https://github.com/guismeiram/Autenticacao_ConsumoServico
+
+Ferramentas utilizadas:<br>
+-Java 17<br>
+-IDE Eclipse<br>
+-SPRING BOOT<br>
+-Java<br>
+-Postman
