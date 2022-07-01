@@ -1,6 +1,12 @@
 package com.example.jpql_cs.model;
 
+import javax.persistence.*;
+
+@Entity
 public class Cotacao {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
     private String code;
     private String codein;
     private String name;
@@ -12,6 +18,18 @@ public class Cotacao {
     private String ask;
     private String timestamp;
     private String create_date;
+
+    public Favorita getFavorita() {
+        return favorita;
+    }
+
+    public void setFavorita(Favorita favorita) {
+        this.favorita = favorita;
+    }
+
+    @ManyToOne
+    private Favorita favorita;
+
 
 
     // Getter Methods
