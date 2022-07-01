@@ -9,4 +9,7 @@ O que vai ter nesse projeto?<br>
 Consumo de api de cambio, destinado a preenchimento de dados no banco de dados. Relacionamento bidirecional OneToMany e manyToOne. JPA e JPQL.<br><br>
 
 Qual o intuito do projeto?<br>
-Fortalecer conhecimentos, além disso fazer experitos. E, ser um facilitador de conhecimentos.
+Fortalecer conhecimentos, além disso fazer experitos. E, ser um facilitador de conhecimentos.<br><br>
+
+Como baixar o projeto?
+git clone https://github.com/guismeiram/Autenticacao_ConsumoServico
