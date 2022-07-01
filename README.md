@@ -23,7 +23,7 @@ git clone https://github.com/guismeiram/Autenticacao_ConsumoServico
 
 <b>Como foi feito:</b><br>
 JPQL<br>
-JPA<br>
+JPA(OneToOne e OneToMany)<br>
 CONSUMO DE SERVIÇO GET(RestTemplate)<br>
 APIREST(GET, POST, DELTE, E PUTH)<br>
 MODEL MAPPER<br>
