@@ -28,3 +28,4 @@ CONSUMO DE SERVIÇO GET(RestTemplate) e salvar dados de consumo de serviços no 
 APIREST(GET, POST, DELTE, E PUTH)<br>
 MODEL MAPPER<br>
 DTO<br>
+SWAGGER(OPENAPI)
