@@ -9,7 +9,7 @@ Esta tecnologia é a junção de funções, em java, com a queries em SQL.<br>
 Consumo de api de cambio, destinado a preenchimento de dados no banco de dados. Relacionamento bidirecional OneToMany e manyToOne. JPA e JPQL.<br><br>
 
 <b>Qual o intuito do projeto?</b><br>
-Fortalecer conhecimentos, além disso fazer experitos. E, ser um facilitador de conhecimentos.<br><br>
+Fortalecer conhecimentos, além disso fazer experimentos. E, ser um facilitador de conhecimentos.<br><br>
 
 <b>Como baixar o projeto?</b><br>
 git clone https://github.com/guismeiram/Autenticacao_ConsumoServico
