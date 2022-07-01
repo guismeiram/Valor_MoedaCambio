@@ -39,15 +39,16 @@ public class FavoritaService {
         favoritosRepository.delete(favorita);
     }
 
-    /*public Favorita updateById(Long id, Favorita favoritaRequest) throws JpqlNotFoundException{
+    public Favorita updateById(Long id, Favorita favoritaRequest) throws JpqlNotFoundException{
         Favorita favorita = favoritosRepository.findById(id)
                 .orElseThrow(() -> new ResourceNotFoundException());
 
-        //favorita.setStatusImovel(imovelRequest.getStatusImovel());
-        favorita.s
+        favorita.setUpdated(favoritaRequest.getUpdated());
+        favorita.setCreated(favoritaRequest.getCreated());
+        favorita.setNoticias(favoritaRequest.getNoticias());
 
-        return imovel;
-    }*/
+        return favorita;
+    }
 
 
 }

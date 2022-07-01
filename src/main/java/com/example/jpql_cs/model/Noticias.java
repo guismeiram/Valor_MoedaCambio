@@ -1,8 +1,5 @@
 package com.example.jpql_cs.model;
 
-import org.hibernate.annotations.LazyCollection;
-import org.hibernate.annotations.LazyCollectionOption;
-
 import javax.persistence.*;
 
 @Entity
@@ -17,7 +14,7 @@ public class Noticias {
 
     private String descricao;
 
-    private String noticia;
+    private String informacoes;
 
     public Long getId() {
         return id;
@@ -35,19 +32,21 @@ public class Noticias {
         this.favorita = favorita;
     }
 
-    public String getDescricao() {
-        return descricao;
-    }
+
 
     public void setDescricao(String descricao) {
         this.descricao = descricao;
     }
 
-    public String getNoticia() {
-        return noticia;
+    public String getDescricao() {
+        return descricao;
     }
 
-    public void setNoticia(String noticia) {
-        this.noticia = noticia;
+    public String getInformacoes() {
+        return informacoes;
+    }
+
+    public void setInformacoes(String informacoes) {
+        this.informacoes = informacoes;
     }
 }

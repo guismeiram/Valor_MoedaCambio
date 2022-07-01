@@ -41,4 +41,15 @@ public class NoticiaService {
 
         noticiaRepository.delete(noticias);
     }
+
+    public Noticias updateById(Long id, Noticias noticiasRequest) throws JpqlNotFoundException{
+        Noticias noticias = noticiaRepository.findById(id)
+                .orElseThrow(() -> new ResourceNotFoundException());
+
+        noticias.setInformacoes(noticiasRequest.getInformacoes());
+        noticias.setDescricao(noticiasRequest.getDescricao());
+        noticias.setFavorita(noticiasRequest.getFavorita());
+
+        return noticias;
+    }
 }
