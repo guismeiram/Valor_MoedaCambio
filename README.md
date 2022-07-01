@@ -25,6 +25,6 @@ git clone https://github.com/guismeiram/Autenticacao_ConsumoServico
 JPQL<br>
 JPA<br>
 CONSUMO DE SERVIÇO GET(RestTemplate)<br>
-APIREST(GET e POST)<br>
+APIREST(GET, POST, DELTE, E PUTH)<br>
 MODEL MAPPER<br>
 DTO<br>
