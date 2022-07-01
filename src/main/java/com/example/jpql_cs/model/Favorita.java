@@ -23,6 +23,8 @@ public class Favorita {
     @LazyCollection(LazyCollectionOption.FALSE)
     private List<Cotacao> cotacao = new ArrayList<>();
 
+
+
     public long getAllId() {
         return (id.equals(0) ? null : id);
     }
