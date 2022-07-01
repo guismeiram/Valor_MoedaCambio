@@ -1,7 +1,7 @@
 # Valor_MoedaCambio
 <b>Valor_MoedaCambio</b>
 
-<b>API REST com foco no aprendizado na TECNOLOGIA JPQL.</b><br>
+<b>API REST com foco no aprendizado na TECNOLOGIA JPQL e CONSUMO DE SERVIÇOS.</b><br>
 
 Esta tecnologia é a junção de funções, em java, com a queries em SQL.<br>
 
