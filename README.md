@@ -1,27 +1,27 @@
 # Valor_MoedaCambio
-Valor_MoedaCambio
+<b>Valor_MoedaCambio</b>
 
-API REST com foco no aprendizado na TECNOLOGIA JPQL.<br>
+<b>API REST com foco no aprendizado na TECNOLOGIA JPQL.</b><br>
 
 Esta tecnologia é a junção de funções, em java, com a queries em SQL.<br>
 
-O que vai ter nesse projeto?<br>
+<b>O que vai ter nesse projeto?</b><br>
 Consumo de api de cambio, destinado a preenchimento de dados no banco de dados. Relacionamento bidirecional OneToMany e manyToOne. JPA e JPQL.<br><br>
 
-Qual o intuito do projeto?<br>
+<b>Qual o intuito do projeto?</b><br>
 Fortalecer conhecimentos, além disso fazer experitos. E, ser um facilitador de conhecimentos.<br><br>
 
-Como baixar o projeto?<br>
+<b>Como baixar o projeto?</b><br>
 git clone https://github.com/guismeiram/Autenticacao_ConsumoServico
 
-Ferramentas utilizadas:<br>
+<b>Ferramentas utilizadas:</b><br>
 -Java 17<br>
 -IDE Eclipse<br>
 -SPRING BOOT<br>
 -Java<br>
 -Postman
 
-Como foi feito:<br>
+<b>Como foi feito:</b><br>
 JPQL<br>
 JPA<br>
 CONSUMO DE SERVIÇO GET(RestTemplate)<br>
