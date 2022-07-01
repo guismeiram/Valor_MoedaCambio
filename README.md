@@ -16,7 +16,7 @@ git clone https://github.com/guismeiram/Autenticacao_ConsumoServico
 
 <b>Ferramentas utilizadas:</b><br>
 -Java 17<br>
--IDE Eclipse<br>
+-IDE Eclipse, Intellij e Visual Code<br>
 -SPRING BOOT<br>
 -Java<br>
 -Postman
@@ -24,7 +24,7 @@ git clone https://github.com/guismeiram/Autenticacao_ConsumoServico
 <b>Como foi feito:</b><br>
 JPQL<br>
 JPA(OneToOne e OneToMany)<br>
-CONSUMO DE SERVIÇO GET(RestTemplate)<br>
+CONSUMO DE SERVIÇO GET(RestTemplate) e salvar dados de consumo de serviços no banco<br>
 APIREST(GET, POST, DELTE, E PUTH)<br>
 MODEL MAPPER<br>
 DTO<br>
