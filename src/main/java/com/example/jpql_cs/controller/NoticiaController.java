@@ -34,7 +34,7 @@ public class NoticiaController {
         noticiasRequest.getFavorita().getCreated();
         noticiasRequest.getFavorita().getCotacao();
         noticiasRequest.getDescricao();
-        noticiasRequest.getNoticia();
+        noticiasRequest.getInformacoes();
 
         //Grava na Memoria
         Noticias noticia = noticiaService.createNoticias(noticiasRequest);
